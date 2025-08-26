@@ -1,0 +1,7 @@
+### Project Lead: 5 Pillars of Educational Access Initiative
+**_Education Non-Profit | May 2025 – Present_**
+
+- Spearheaded the conceptualization and strategic planning for a national study on 5 pillars of educational access, defining core research metrics and presenting the project roadmap to stakeholders.
+- Engineered a semi-automated **data pipeline** using **Google Sheets** to process and link large-scale datasets from the National Center for Education Statistics (NCES), creating a refreshable single source of truth for analysis.
+- Solved complex data integrity and volume challenges by developing a "data laundering" workflow and utilizing `QUERY(IMPORTRANGE(...))` functions to manage datasets exceeding Google Sheets' standard limits.
+- Recruited and managed a research team, leveraging the new data system to enable the systematic analysis of state-level educational metrics against the 5 established pillars.
