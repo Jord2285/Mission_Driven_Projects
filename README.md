@@ -9,7 +9,7 @@ These are projects being worked on or completed for a non-profit I volunteer wit
 - **Process Improvement**: Implemented a new AI-assisted workflow (using **Gemini**) to create uniform, structured content modules ("HTML gems"), improving efficiency and consistency.
 - **Technical Specification**: Co-Authored the formal project brief to guide the development of a scalable, searchable dictionary on the **WordPress** platform.
 
-  ### Project Lead: 5 Pillars of Educational Access Initiative
+### Project Lead: 5 Pillars of Educational Access Initiative
 **_Education Non-Profit | May 2025 – Present_**
 
 - Spearheaded the conceptualization and strategic planning for a national study on 5 pillars of educational access, defining core research metrics and presenting the project roadmap to stakeholders.
